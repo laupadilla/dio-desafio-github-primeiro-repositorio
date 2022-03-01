@@ -1,1 +1,6 @@
-teste anotações.
+Comandos...
+
+Git init: criação de repositório na pasta local.
+Git add .
+Git commit -m "mensagem"
+git push origin main
